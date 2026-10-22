@@ -1,10 +1,10 @@
 {
-  "versionCode": 19,
-  "versionName": "1.3.1",
-  "apkUrl": "https://github.com/883i4/durra-updates/releases/download/V1.3.1/durra-1.3.1-arm64.apk",
-  "sha256": "2537356ed057701e0a78c9be49e500cd81398492965564883dec646d90758344",
-  "notes_ar": "• إصلاح وضع تور: يتصل الآن فعلاً، ويُظهر حالة الاتصال فوراً، ورسالة خطأ واضحة إن فشل\n• إصلاح عدّاد التبويبات وزر التبويبات\n• المتصفح يعمل داخل التطبيق نفسه: بطاقة واحدة لدرّة في التطبيقات الأخيرة، والخروج يعود دائماً للرئيسية\n• فتح أسرع للمتصفح بدون وميض، وحركة أنعم\n• إصلاح وميض شاشة التنزيلات أثناء التحميل",
-  "notes_en": "• Tor mode fixed: it really connects now, shows its progress at once, and a clear error if it fails\n• Tab counter and tabs button fixed\n• The browser now lives inside the app: one Durra card in Recents, and closing it always returns to Home\n• Faster browser opening with no flash, smoother scrolling and menus\n• Fixed flickering on the Downloads screen while downloading",
+  "versionCode": 21,
+  "versionName": "1.3.3",
+  "apkUrl": "https://github.com/883i4/durra-updates/releases/download/V1.3.3/durra-1.3.3-arm64.apk",
+  "sha256": "eb9528f228ec6528d7c06a17ddf64b282e0a8eea989e2df47f74c557db5b8cac",
+  "notes_ar": "• مشغّل موسيقى جديد داخل التطبيق: شاشة التشغيل، مشغّل مصغّر، قائمة الانتظار، الأغاني والألبومات والفنانون والمجلدات وقوائم التشغيل\n• معادل صوت مع إعدادات جاهزة وتعزيز الجهير، ومؤقّت نوم، وكلمات الأغاني المضمّنة أو من ملف ‎.lrc\n• التحكم بالموسيقى من الإشعار وشاشة القفل\n• خيار عرض فيديوهات وصور وأغاني الهاتف في المعرض مع الألبومات وتحديث تلقائي\n• تقديم فوري في الفيديوهات الطويلة والكبيرة دون مؤشر تحميل",
+  "notes_en": "• New in-app music player: Now Playing screen, mini-player, queue, and songs, albums, artists, folders and playlists\n• Equalizer with presets and bass boost, sleep timer, and lyrics from embedded tags or an .lrc file\n• Music controls in the notification and on the lock screen\n• Option to show your phone's videos, photos and songs in the Gallery, with albums and automatic updates\n• Instant seeking in long and large videos, with no loading spinner",
   "minSupportedVersionCode": 0,
   "force": true
 }

@@ -1,0 +1,10 @@
+{
+  "versionCode": 19,
+  "versionName": "1.3.1",
+  "apkUrl": "https://github.com/883i4/durra-updates/releases/download/V1.3.1/durra-1.3.1-arm64.apk",
+  "sha256": "2537356ed057701e0a78c9be49e500cd81398492965564883dec646d90758344",
+  "notes_ar": "• إصلاح وضع تور: يتصل الآن فعلاً، ويُظهر حالة الاتصال فوراً، ورسالة خطأ واضحة إن فشل\n• إصلاح عدّاد التبويبات وزر التبويبات\n• المتصفح يعمل داخل التطبيق نفسه: بطاقة واحدة لدرّة في التطبيقات الأخيرة، والخروج يعود دائماً للرئيسية\n• فتح أسرع للمتصفح بدون وميض، وحركة أنعم\n• إصلاح وميض شاشة التنزيلات أثناء التحميل",
+  "notes_en": "• Tor mode fixed: it really connects now, shows its progress at once, and a clear error if it fails\n• Tab counter and tabs button fixed\n• The browser now lives inside the app: one Durra card in Recents, and closing it always returns to Home\n• Faster browser opening with no flash, smoother scrolling and menus\n• Fixed flickering on the Downloads screen while downloading",
+  "minSupportedVersionCode": 0,
+  "force": true
+}

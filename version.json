@@ -1,10 +1,10 @@
 {
-  "versionCode": 35,
-  "versionName": "1.3.4",
-  "apkUrl": "https://github.com/883i4/durra-updates/releases/download/V1.3.4/durra-1.3.4-arm64.apk",
-  "sha256": "749a6b53e611ae3dc1f6b163dd99603662b7f870ac8999d389deb6ab1a69ef8b",
-  "notes_ar": "• تحليل أسرع للروابط وتحميل أسرع مع التحميل المتوازي\n• جلسة واحدة للحسابات والمتصفح تتجدد تلقائياً\n• الملفات تُحفظ في مجلدات الهاتف العامة وتبقى بعد حذف التطبيق\n• خزنة سرية وسلة محذوفات وإخفاء معاينة المجلدات\n• غلاف واسم الفنان والألبوم للأغاني، ومشغّل مصغّر محسّن\n• إعدادات بتصميم جديد وإصلاحات كثيرة",
-  "notes_en": "• Faster link analysis and parallel downloads\n• One shared, auto-refreshing session for accounts and the browser\n• Files saved to public phone folders and kept after uninstall\n• Secret vault, recycle bin and folder preview hiding\n• Song cover, artist and album tags, improved mini player\n• Redesigned settings and many fixes",
+  "versionCode": 39,
+  "versionName": "1.3.5",
+  "apkUrl": "https://github.com/883i4/durra-updates/releases/download/V1.3.5/durra-1.3.5-arm64.apk",
+  "sha256": "cd124bc100ae69ddfbd9f138163d3ac47622fa130993817fb46f06ecce5ef4b2",
+  "notes_ar": "• إشعارات التحديث صارت توصلك بشريط الإشعارات حتى والتطبيق مسكّر\n• 6 ثيمات جديدة للتطبيق\n• 7 خطوط تختار منها\n• 24 أيقونة للتطبيق تختار منها\n• زر التنزيل بالمتصفح صار تكدر تسحبه وتحطه وين ما تريد\n• تحسينات وإصلاحات",
+  "notes_en": "• Update notifications now reach the notification shade, even when the app is closed\n• 6 new app themes\n• 7 fonts to choose from\n• 24 app icons to choose from\n• The browser download button can now be dragged anywhere\n• Improvements and fixes",
   "minSupportedVersionCode": 0,
   "force": false
 }

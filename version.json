@@ -1,10 +1,10 @@
 {
-  "versionCode": 21,
-  "versionName": "1.3.3",
-  "apkUrl": "https://github.com/883i4/durra-updates/releases/download/V1.3.3/durra-1.3.3-arm64.apk",
-  "sha256": "eb9528f228ec6528d7c06a17ddf64b282e0a8eea989e2df47f74c557db5b8cac",
-  "notes_ar": "• مشغّل موسيقى جديد داخل التطبيق: شاشة التشغيل، مشغّل مصغّر، قائمة الانتظار، الأغاني والألبومات والفنانون والمجلدات وقوائم التشغيل\n• معادل صوت مع إعدادات جاهزة وتعزيز الجهير، ومؤقّت نوم، وكلمات الأغاني المضمّنة أو من ملف ‎.lrc\n• التحكم بالموسيقى من الإشعار وشاشة القفل\n• خيار عرض فيديوهات وصور وأغاني الهاتف في المعرض مع الألبومات وتحديث تلقائي\n• تقديم فوري في الفيديوهات الطويلة والكبيرة دون مؤشر تحميل",
-  "notes_en": "• New in-app music player: Now Playing screen, mini-player, queue, and songs, albums, artists, folders and playlists\n• Equalizer with presets and bass boost, sleep timer, and lyrics from embedded tags or an .lrc file\n• Music controls in the notification and on the lock screen\n• Option to show your phone's videos, photos and songs in the Gallery, with albums and automatic updates\n• Instant seeking in long and large videos, with no loading spinner",
+  "versionCode": 35,
+  "versionName": "1.3.4",
+  "apkUrl": "https://github.com/883i4/durra-updates/releases/download/V1.3.4/durra-1.3.4-arm64.apk",
+  "sha256": "749a6b53e611ae3dc1f6b163dd99603662b7f870ac8999d389deb6ab1a69ef8b",
+  "notes_ar": "• تحليل أسرع للروابط وتحميل أسرع مع التحميل المتوازي\n• جلسة واحدة للحسابات والمتصفح تتجدد تلقائياً\n• الملفات تُحفظ في مجلدات الهاتف العامة وتبقى بعد حذف التطبيق\n• خزنة سرية وسلة محذوفات وإخفاء معاينة المجلدات\n• غلاف واسم الفنان والألبوم للأغاني، ومشغّل مصغّر محسّن\n• إعدادات بتصميم جديد وإصلاحات كثيرة",
+  "notes_en": "• Faster link analysis and parallel downloads\n• One shared, auto-refreshing session for accounts and the browser\n• Files saved to public phone folders and kept after uninstall\n• Secret vault, recycle bin and folder preview hiding\n• Song cover, artist and album tags, improved mini player\n• Redesigned settings and many fixes",
   "minSupportedVersionCode": 0,
-  "force": true
+  "force": false
 }

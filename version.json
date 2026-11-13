@@ -1,10 +1,10 @@
 {
-  "versionCode": 44,
-  "versionName": "1.3.10",
-  "apkUrl": "https://github.com/883i4/durra-updates/releases/download/V1.3.10/durra-1.3.10-arm64.apk",
-  "sha256": "849d8766be2463a5ce2b4abd7ddffb5555505f455ca9b4a905465520cce19e20",
-  "notes_ar": "• تحليل آمن للحسابات: يحمّل الروابط العامة بدون حسابك أولاً\n• محركات تحميل احتياطية أقوى لإنستغرام وX وفيسبوك\n• تحسينات بالسرعة والاستقرار",
-  "notes_en": "• Account-safe analysis: public links download without your account first\n• Stronger fallback download engines for Instagram, X and Facebook\n• Speed and stability improvements",
+  "versionCode": 45,
+  "versionName": "1.3.11",
+  "apkUrl": "https://github.com/883i4/durra-updates/releases/download/V1.3.11/durra-1.3.11-arm64.apk",
+  "sha256": "d027c5503442fed850cf4be98577fe2f3c77e0113dab3e86dc10729125cd3151",
+  "notes_ar": "• إصلاح فشل التحميل بعد 100% لبعض المواقع\n• محرر نغمات: قص الصوت وتعيينه رنة أو إشعار أو منبه\n• ودجت «حمّل» للشاشة الرئيسية يحمّل الرابط المنسوخ\n• إصلاح خروج الحساب، وتحسينات أمان واستقرار",
+  "notes_en": "• Fixed downloads failing at 100% on some sites\n• Ringtone editor: trim audio and set as ringtone, notification or alarm\n• Home-screen «Download» widget for the copied link\n• Session fix, security and stability improvements",
   "minSupportedVersionCode": 0,
   "force": false
 }
